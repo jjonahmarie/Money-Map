@@ -32,6 +32,27 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7E212A90292B58050016554E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		7E212A91292B580D0016554E /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		7E212A92292B58140016554E /* View Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "View Model";
+			sourceTree = "<group>";
+		};
 		7E931FEC2928AE4300AF940D = {
 			isa = PBXGroup;
 			children = (
@@ -52,6 +73,9 @@
 			isa = PBXGroup;
 			children = (
 				7E931FF82928AE4300AF940D /* Money_MapApp.swift */,
+				7E212A90292B58050016554E /* Model */,
+				7E212A91292B580D0016554E /* View */,
+				7E212A92292B58140016554E /* View Model */,
 				7E931FFA2928AE4300AF940D /* ContentView.swift */,
 				7E931FFC2928AE4400AF940D /* Assets.xcassets */,
 				7E931FFE2928AE4400AF940D /* Preview Content */,
